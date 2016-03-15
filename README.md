@@ -1,6 +1,6 @@
 # ResponsiveResizer
 
-### You need to have ImageMagick installed to run this.
+*You need to have ImageMagick installed to run this.*
 
 1. Add `.jpg` images to a `src_images` folder on the root
 2. Run `npm run resize`
